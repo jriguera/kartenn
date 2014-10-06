@@ -1,0 +1,26 @@
+   <hr class="featurette-divider">
+{% for link in site.features %}
+       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+       {% if thecycle == 'odd' %}
+              <div class="row featurette">
+                <div class="col-md-7">
+                  <h2 class="featurette-heading">{{ link.title }}</h2>
+                  <p class="lead">{{ link.content }}</p>
+                </div>
+                <div class="col-md-5">
+                  <img class="featurette-image img-responsive" src="{{ link.img }}" alt="{{ link.title }}">
+                </div>
+              </div>
+       {% else %}
+              <div class="row featurette">
+                <div class="col-md-5">
+                  <img class="featurette-image img-responsive" src="{{ link.img }}" alt="{{ link.title }}">
+                </div>
+                <div class="col-md-7">
+                  <h2 class="featurette-heading">{{ link.title }}</h2>
+                  <p class="lead">{{ link.content }}</p>
+                </div>
+              </div>
+       {% endif %}
+   <hr class="featurette-divider">
+{% endfor %}

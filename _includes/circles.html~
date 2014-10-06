@@ -1,0 +1,13 @@
+      <div class="row">
+        {% assign number=12 | divided_by:site.circles.size  %}
+        {% assign counter=1 %}
+        {% for link in site.circles %}
+               <div class="col-lg-{{ number }}">
+                  <img class="img-circle" src="{{ link.img }}" alt="{{ link.title }}" style="width: 140px; height: 140px;">
+                  <h2>{{ link.title }}</h2>
+                  <p>{{ link.description }}</p>
+                  <p><a class="btn btn-default" href="{{ link.href }}" role="button">{{ link.link }}</a></p>
+               </div>
+               {% assign counter=counter | plus:1 %}
+        {% endfor %}
+      </div>

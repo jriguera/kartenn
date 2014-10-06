@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+    <body>
+    {% include header.html %}
+    {% include carrusel.html %}
+    <div class="container marketing">
+            {% if site.circles %}
+               {% include carrusel.html %}
+            {% endif %}
+            {% if site.features %}
+               {% include features.html %}
+            {% endif %}
+            {% include footer.html %}
+    </div>
+    {% include js.html %}
+    </body>
+</html>

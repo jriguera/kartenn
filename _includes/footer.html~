@@ -1,0 +1,7 @@
+<footer>
+   <p class="pull-right"><a href="#">Arriba</a></p>
+   <p>&copy; {{ site.time | date: '%y' }} {{ site.company }} &middot; 
+   <a href="#">Privacy</a> &middot; 
+   <a href="#">Terms</a>
+   </p>
+</footer>
