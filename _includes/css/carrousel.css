@@ -39,6 +39,7 @@ body {
 .header-company .header-text {
   text-shadow: 0px 0px 10px #000;
   font-size: 2.5em;
+  font-weight: bold;
   color: #fff;
   display: inline;
   padding-left: 1%;
@@ -97,7 +98,6 @@ body {
 
 /* Carousel base class */
 .carousel {
-/*   height: 500px; */
   height: 400px;
   margin-bottom: 60px;
 }
@@ -105,10 +105,9 @@ body {
 .carousel-caption {
   z-index: 10;
   color: #0032A3;
-  font-weight: bold;
-  font-size: 1em;
-  text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-  margin-bottom: 20px;
+/*font-weight: bold;*/
+  font-size: 2em;
+  text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
 }
 
 /* Declare heights because of positioning of img element */
@@ -195,8 +194,11 @@ body {
   }
 }
 
+
+/*
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 10px;
   }
 }
+*/
