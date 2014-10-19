@@ -6,7 +6,7 @@
                   <img class="img-circle" src="{{ link.img }}" alt="{{ link.title }}" style="width: 140px; height: 140px;">
                   <h2>{{ link.title }}</h2>
                   <p>{{ link.description }}</p>
-                  <p><a class="btn btn btn-primary" href="{{ link.href }}" role="button">{{ link.link }}</a></p>
+                  <a class="btn btn btn-primary" href="{{ link.href }}" role="button">{{ link.link }}</a>
                </div>
                {% assign counter=counter | plus:1 %}
         {% endfor %}

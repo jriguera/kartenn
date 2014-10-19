@@ -135,7 +135,7 @@ body {
 /* Center align the text within the three columns below the carousel */
 .marketing .col-marketing {
   text-align: center;
-  padding: 0px 0px 50px 0px;
+  padding: 0px 5px 50px 5px;
 }
 .marketing h2 {
   font-weight: normal;
