@@ -23,7 +23,7 @@ carrusel:
   description: Proyectos para Gestión Territorial y Urbana
 - img: img/carrusel/batimetria_1263_filtro.png
   description: Sistemas de Información Geográfica y Teledetección
-- img: img/carrusel/analisis_1263_500_filtro.png
+- img: img/carrusel/analisis_cabecera.png
   description: Desarrollo sostenible
 
 circles:
