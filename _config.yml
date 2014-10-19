@@ -30,17 +30,22 @@ carrusel:
   link: Pincha aquí
 
 circles:
-- title: Gestión Ambiental y Territorial
+- title: Gestión Ambiental
   img: img/circulos/informe_gimena.png
   href: http://www.kartenn.es/proyectos/
   description: Desarrollo de proyectos basados en sistemas de información geográfica y teledetección para crear aplicaciones relacionadas con la gestión ambiental, territorial y urbana.
   link: Saber más
-- title: OpenData con Tecnologías Abiertas
+- title: Gestión Territorial
+  img: img/circulos/informe_gimena.png
+  href: http://www.kartenn.es/proyectos/
+  description: Desarrollo de proyectos basados en sistemas de información geográfica y teledetección para crear aplicaciones relacionadas con la gestión ambiental, territorial y urbana.
+  link: Saber más
+- title: Tecnologías Abiertas
   img: img/circulos/Esquema_aplicacion_vDRP.png
   href: http://www.kartenn.es/downloads/
   description: Desarrollo de sistemas ágiles, de bajo coste y accesibles promoviendo el movimiento de datos abiertos (open data) ayudando a que sus clientes y socios liberen en la medida de lo posible sus datos.
   link: Desarrollos
-- title: Formación y Plublicaciones
+- title: Formación
   img: img/circulos/formacion.png
   href: http://www.kartenn.es/publicaciones/
   description: Para aumentar la base de usuarios de estas tecnologías y mejorar sus competencias, Kartenn organiza actividades formativas (cursos y talleres) y sus socios contribuyen con publicaciones científicas.
