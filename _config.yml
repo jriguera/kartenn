@@ -19,15 +19,12 @@ brand:
 #  url: #contacto
 
 carrusel:
-- img: img/carrusel/analisis_1263_500_filtro.png
-  description: Desarrollo de proyectos basados en sistemas de información geográfica y teledetección
+- img: img/carrusel/moreiras_filtro.jpg
+  description: Proyectos para Gestión Territorial y Urbana
 - img: img/carrusel/batimetria_1263_filtro.png
-  description: Promover el movimiento OpenData
-- title: Moreiras
-  img: img/carrusel/moreiras_filtro.jpg
-  description: asfasf dsfasd fasfasdfas fasdfas asdfasdfsdfasdfasdf asdfasdf a
-  href: #
-  link: Pincha aquí
+  description: Sistemas de Información Geográfica y Teledetección
+- img: img/carrusel/analisis_1263_500_filtro.png
+  description: Desarrollo sostenible
 
 circles:
 - title: Gestión Ambiental
