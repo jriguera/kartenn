@@ -104,8 +104,12 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  color: #000;
+  color: #0032A3;
+  font-weight: bold;
+  font-size: 3em;
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+
+
 }
 
 /* Declare heights because of positioning of img element */
@@ -130,8 +134,8 @@ body {
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-marketing {
-  margin-bottom: 20px;
   text-align: center;
+  padding: 0px 0px 50px 0px;
 }
 .marketing h2 {
   font-weight: normal;
