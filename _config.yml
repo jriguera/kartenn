@@ -24,7 +24,7 @@ carrusel:
 - img: img/carrusel/batimetria_1263_filtro.png
   description: Sistemas de Información Geográfica y Teledetección
 - img: img/carrusel/analisis_cabecera.png
-  description: Desarrollo sostenible
+  description: Estrategias de Desarrollo Sostenible
 
 circles:
 - title: Gestión Ambiental
@@ -41,12 +41,12 @@ circles:
   img: img/circulos/Esquema_aplicacion_vDRP.png
   href: http://www.kartenn.es/downloads/
   description: Desarrollo de sistemas ágiles, de bajo coste y accesibles promoviendo el "open data" (datos abiertos).
-  link: Desarrollos
+  link: Ver desarrollos
 - title: Formación
   img: img/circulos/formacion.png
   href: http://www.kartenn.es/publicaciones/
   description: Organización actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y teledetección.
-  link: Saber más
+  link: Más información
 
 collections:
 - features
