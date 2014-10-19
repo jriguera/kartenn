@@ -96,11 +96,19 @@ body {
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
+
+
 /* Carousel base class */
 .carousel {
   height: 400px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
+
+.carousel-control {
+  margin-top: 100px;
+}
+
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
