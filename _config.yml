@@ -43,12 +43,12 @@ circles:
 - title: Tecnologías Abiertas
   img: img/circulos/Esquema_aplicacion_vDRP.png
   href: http://www.kartenn.es/downloads/
-  description: Desarrollo de sistemas ágiles, de bajo coste y accesibles promoviendo el "open data" (datos abiertos) ayudando a que clientes y socios liberen sus datos en la medida de lo posible.
+  description: Desarrollo de sistemas ágiles, de bajo coste y accesibles promoviendo el "open data" (datos abiertos).
   link: Desarrollos
 - title: Formación
   img: img/circulos/formacion.png
   href: http://www.kartenn.es/publicaciones/
-  description: Aumentar la base de usuarios de estas tecnologías y mejorar sus competencias, organizan actividades formativas (cursos y talleres) y contribuyendo con publicaciones científicas.
+  description: Organizar actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y contribuir con publicaciones científicas.
   link: Saber más
 
 collections:
