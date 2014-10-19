@@ -19,9 +19,9 @@ brand:
 #  url: #contacto
 
 carrusel:
-- img: img/carrusel/analisis.png
+- img: img/carrusel/analisis_1263_500_filtro.png
   description: Desarrollo de proyectos basados en sistemas de información geográfica y teledetección
-- img: img/carrusel/batimetria_3d.png
+- img: img/carrusel/batimetria_1263.png
   description: Promover el movimiento OpenData
 - title: Moreiras
   img: img/carrusel/moreiras.png
