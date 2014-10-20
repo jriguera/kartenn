@@ -2,28 +2,27 @@
 title: Kartenn
 email: info@kartenn.es
 description: > # this means to ignore newlines until "baseurl:"
-  KARTENN Tecnologías para la gestión ambiental y territorial
+  KARTENN Tecnologías para la Gestión Ambiental y Territorial
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.kartenn.es" # the base hostname & protocol for your site
-
 company: Kartenn
+terms: http://www.kartenn.es/quienes-somos/
+contact: http://www.kartenn.es/noticias/
 
 brand:
   logo: img/kartenn.png
   text: Tecnologías para la gestión ambiental y territorial
 
-#headers:
-#- title: Kartenn
-#  url: /
-#- title: Contacto
-#  url: #contacto
+# headers:
+# - title: Kartenn
+#   url: /
 
 carrusel:
 - img: img/carrusel/moreiras_filtro.jpg
   description: Proyectos para Gestión Territorial y Urbana
-- img: img/carrusel/batimetria_1263_filtro.png
+- img: img/carrusel/batimetria_filtro.jpg
   description: Sistemas de Información Geográfica y Teledetección
-- img: img/carrusel/analisis_cabecera.png
+- img: img/carrusel/analisis_filtro.jpg
   description: Estrategias de Desarrollo Sostenible
 
 circles:

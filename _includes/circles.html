@@ -2,7 +2,7 @@
         {% assign number=12 | divided_by:site.circles.size  %}
         {% assign counter=1 %}
         {% for link in site.circles %}
-               <div class="col-marketing col-lg-{{ number }}">
+               <div class="col-marketing col-sm-{{ number | times:2 }} col-md-{{ number }}">
                   <img class="img-circle" src="{{ link.img }}" alt="{{ link.title }}" style="width: 140px; height: 140px;">
                   <h2>{{ link.title }}</h2>
                   <p>{{ link.description }}</p>

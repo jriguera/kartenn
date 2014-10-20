@@ -1,14 +1,6 @@
 <header class="site-header">
     <div class="navbar-wrapper">
       <div class="container">
-        {% if site.brand %}
-            <div class="header-company">
-                <div class="header-logo">
-                   <img src="{{ site.brand.logo }}" alt="{{ site.company }}"><span>{{ site.company }}</span>
-                   <div class="header-text">{{ site.brand.text }}</div>
-               </div>
-            <div>
-        {% endif %}
         {% if site.headers %}
                 <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
                   <div class="container">
@@ -41,6 +33,13 @@
                     </div>
                   </div>
                 </nav>
+        {% endif %}
+        {% if site.brand %}
+            <div class="header-logo">
+               <img src="{{ site.brand.logo }}" alt="{{ site.company }}">
+               <h1 class="header-company">{{ site.company }}</h1>
+               <h4 class="header-text">{{ site.brand.text }}</h4>
+            <div>
         {% endif %}
       </div>
     </div>
