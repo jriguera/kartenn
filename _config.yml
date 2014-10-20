@@ -12,11 +12,11 @@ brand:
   logo: img/kartenn.png
   text: Tecnologías para la gestión ambiental y territorial
 
-headers:
-- title: Kartenn
-  url: /
-- title: Contacto
-  url: #contacto
+#headers:
+#- title: Kartenn
+#  url: /
+#- title: Contacto
+#  url: #contacto
 
 carrusel:
 - img: img/carrusel/moreiras_filtro.jpg
@@ -44,7 +44,7 @@ circles:
   link: Ver desarrollos
 - title: Formación
   img: img/circulos/formacion.png
-  href: http://www.kartenn.es/publicaciones/
+  href: http://www.kartenn.es/formacionsig/
   description: Organización actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y teledetección.
   link: Más información
 
