@@ -29,7 +29,7 @@ circles:
 - title: Gestión Ambiental
   img: img/circulos/informe_gimena.png
   href: http://www.kartenn.es/proyectos/
-  description: Elaboración de estratetias que permitan gestionar los recursos naturales y conservar el medio ambiente promoviendo el desarollo sostenible.
+  description: Elaboración de estrategias que permitan gestionar los recursos naturales y conservar el medio ambiente promoviendo el desarollo sostenible.
   link: Más información
 - title: Gestión Territorial
   img: img/circulos/morfonucleos.png
@@ -44,7 +44,7 @@ circles:
 - title: Formación
   img: img/circulos/formacion.png
   href: http://www.kartenn.es/formacionsig/
-  description: Organización actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y teledetección.
+  description: Organización de actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y teledetección.
   link: Más información
 
 collections:
