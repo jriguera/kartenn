@@ -8,6 +8,7 @@ url: "http://www.kartenn.es" # the base hostname & protocol for your site
 company: Kartenn
 terms: http://www.kartenn.es/quienes-somos/
 contact: http://www.kartenn.es/noticias/
+cookies: http://www.kartenn.es/quienes-somos/
 
 brand:
   logo: img/kartenn.png

@@ -1,3 +1,11 @@
+{% if site.cookies %}
+<div class="container container-cookie">
+  <div class="cookiesms" id="cookie1">
+Esta web utiliza cookies, <a href="{{ site.cookies }}">aquí está nuestra política de cookies.</a>
+Si continúa navegando consideramos que acepta su uso. <button type="button" class="btn btn-default btn-xs" onclick="controlcookies()">Cerrar</button>
+  </div>
+</div>
+{% endif %}
 <header class="site-header">
     <div class="navbar-wrapper">
       <div class="container">

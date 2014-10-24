@@ -7,6 +7,34 @@ body {
   color: #5a5a5a;
 }
 
+
+/* CUSTOMIZE THE COOKIESBAR
+-------------------------------------------------- */
+
+#cookiesms1:target {
+  display: none;
+}
+
+.cookiesms {
+  font-size: 0.9em;
+  font-weight: strong;
+  text-align: center;
+  color: #fff;
+  background-color: #321640;
+  opacity:0.7;
+  filter:alpha(opacity=70); /* For IE8 and earlier */
+  bottom: 0px;
+  width: 100%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  position: fixed; 
+  padding: 3px 10px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  z-index:999999999;
+}
+
+
 /* CUSTOMIZE THE LOGO
 -------------------------------------------------- */
 
@@ -200,6 +228,11 @@ footer {
 }
 
 @media (min-width: 768px) {
+  .cookiesms {
+    top: 0px;
+    bottom: initial;
+  }
+  
   .header-logo .header-logo img {
     margin-top: 0px;
     width: 18%;
