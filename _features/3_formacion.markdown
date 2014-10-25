@@ -1,5 +1,5 @@
 ---
-title: "Formación"
+title: "Actividades Formativas"
 img: img/formacion.png
 date:   2014-10-06 16:40:03
 ---
