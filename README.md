@@ -1,7 +1,7 @@
 kartenn
 =======
 
-Jekyll website based on BootStraap carrousel template. It supports the following sections (see _config.yml):
+Jekyll website based on [BootStraap carousel template](http://getbootstrap.com/examples/carousel). It supports the following sections (see `_config.yml`):
 
  *  Logo and slogan for the company.
  *  Optional Navbar with links controlled within configuration
