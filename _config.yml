@@ -19,31 +19,31 @@ brand:
 #   url: /
 
 carrusel:
-- img: img/carrusel/moreiras_filtro.jpg
+- img: img/carrousel/moreiras_filtro.jpg
   description: Proyectos para Gestión Territorial y Urbana
-- img: img/carrusel/batimetria_filtro.jpg
+- img: img/carrousel/batimetria_filtro.jpg
   description: Sistemas de Información Geográfica y Teledetección
-- img: img/carrusel/analisis_filtro.jpg
+- img: img/carrousel/analisis_filtro.jpg
   description: Estrategias de Desarrollo Sostenible
 
 circles:
 - title: Gestión Ambiental
-  img: img/circulos/informe_gimena.png
+  img: img/circles/informe_gimena.png
   href: http://www.kartenn.es/proyectos/
   description: Elaboración de estrategias que permitan gestionar los recursos naturales y conservar el medio ambiente promoviendo el desarollo sostenible.
   link: Más información
 - title: Gestión Territorial
-  img: img/circulos/morfonucleos.png
+  img: img/circles/morfonucleos.png
   href: http://www.kartenn.es/proyectos/
   description: Conseguir un equilibrio adecuado para el desarrollo económico, crecimiento de la población, uso racional de los recursos y protección y conservación del ambiente. 
   link: Saber más
 - title: Tecnologías Abiertas
-  img: img/circulos/Esquema_aplicacion_vDRP.png
+  img: img/circles/Esquema_aplicacion_vDRP.png
   href: http://www.kartenn.es/downloads/
   description: Promover el desarrollo de sistemas ágiles, de bajo coste y accesibles apoyando el movimiento "open data" (datos abiertos) en lo posible.
   link: Ver desarrollos
 - title: Formación
-  img: img/circulos/formacion.png
+  img: img/circles/formacion.png
   href: http://www.kartenn.es/formacionsig/
   description: Organización de actividades formativas (cursos y talleres) en Sistemas de Información Geográfica (SIG) y teledetección.
   link: Más información
