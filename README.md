@@ -8,7 +8,7 @@ Jekyll landing page based on [BootStraap carousel template](http://getbootstrap.
  *  Circles section defined within config file.
  *  Features section based on collections with odd/even positioning.
  *  Responsive CSS for small devices.
- *  Cookie Advertising support
+ *  Cookies warning notification.
  
 To run locally, just install [jekyll](http://jekyllrb.com/), clone this repo and type `jekyll serve`. Have fun!
 
