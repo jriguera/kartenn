@@ -11,13 +11,9 @@ body {
 /* CUSTOMIZE THE COOKIESBAR
 -------------------------------------------------- */
 
-#cookiesms1:target {
-  display: none;
-}
-
 .cookiesms {
   font-size: 0.9em;
-  font-weight: strong;
+/*font-weight: strong; */
   text-align: center;
   color: #fff;
   background-color: #321640;
@@ -26,7 +22,7 @@ body {
   bottom: 0px;
   width: 100%;
   left: 50%;
-  transform: translate(-50%, 0);
+  transform: translateX(-50%);
   position: fixed; 
   padding: 3px 10px;
   border: 1px solid transparent;
@@ -142,9 +138,15 @@ body {
   text-align: center;
   padding: 0px 5px 50px 5px;
 }
+
 .marketing h2 {
   font-weight: normal;
 }
+
+.marketing .col-marketing h2 {
+  font-size: 2em;
+}
+
 .marketing .col-marketing p {
   margin-right: 10px;
   margin-left: 10px;
