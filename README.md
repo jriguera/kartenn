@@ -10,6 +10,10 @@ Jekyll website based on [BootStraap carousel template](http://getbootstrap.com/e
  *  Responsive CSS for small devices.
  
 To run locally, just install [jekyll](http://jekyllrb.com/), clone this repo and type `jekyll serve`. Have fun!
+
+
+[See the demo](http://jriguera.github.io/kartenn/)
+==================================================
  
 
 
